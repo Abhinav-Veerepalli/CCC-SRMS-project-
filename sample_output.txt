@@ -1,0 +1,4 @@
+USERNAME: admin
+PASSWORD: 1234
+Logged in as: admin
+ADMIN MENU...
